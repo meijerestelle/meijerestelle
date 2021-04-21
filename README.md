@@ -1,0 +1,3 @@
+ - 👋  Hi, I’m @meijerestelle
+ - 👀  I’m interested in photography, sports, reading
+ - 🌱  I’m currently learning Swift & I'm getting familiar with HTML/CSS/JS again
